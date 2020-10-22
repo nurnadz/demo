@@ -21,11 +21,8 @@
      "image": "image",
      "timeBalance": "00:02:12",
      "surah": "Al-Falaq",
-     "status": "Unreviewed"
-    },
-    
-    
-    
+     "status": "Unreviewed",
+    },   
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
