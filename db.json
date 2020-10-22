@@ -1,8 +1,31 @@
 {
   "user": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, 
+     "email": "alianadira@yahoo.com",
+     "image": "image",
+     "timeBalance": "00:03:15".
+     "surah": "An-Nas",
+     "status": "Reviewed"
+    },
+    
+    { "id": 2, 
+     "email": "alisa@gmail.com",
+     "image": "image",
+     "timeBalance": "00:03:15".
+     "surah": "Al-Falaq",
+     "status": "Unreviewed"
+    },
+    
+    { "id": 3, 
+     "email": "ali@gmail.com",
+     "image": "image",
+     "timeBalance": "00:02:12".
+     "surah": "Al-Falaq",
+     "status": "Unreviewed"
+    },
+    
+    
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
