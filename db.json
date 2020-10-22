@@ -3,7 +3,7 @@
     { "id": 1, 
      "email": "alianadira@yahoo.com",
      "image": "image",
-     "timeBalance": "00:03:15".
+     "timeBalance": "00:03:15",
      "surah": "An-Nas",
      "status": "Reviewed"
     },
@@ -11,7 +11,7 @@
     { "id": 2, 
      "email": "alisa@gmail.com",
      "image": "image",
-     "timeBalance": "00:03:15".
+     "timeBalance": "00:03:15",
      "surah": "Al-Falaq",
      "status": "Unreviewed"
     },
@@ -19,7 +19,7 @@
     { "id": 3, 
      "email": "ali@gmail.com",
      "image": "image",
-     "timeBalance": "00:02:12".
+     "timeBalance": "00:02:12",
      "surah": "Al-Falaq",
      "status": "Unreviewed"
     },
